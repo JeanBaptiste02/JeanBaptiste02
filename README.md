@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanbaptiste02" alt="jeanbaptiste02" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/none" target="blank"><img src="https://img.shields.io/twitter/follow/none?logo=twitter&style=for-the-badge" alt="none" /></a> </p>
 
 - 👨‍💻 Most of my projects are available at [https://damodaranejb.alwaysdata.net/](https://damodaranejb.alwaysdata.net/)
 
