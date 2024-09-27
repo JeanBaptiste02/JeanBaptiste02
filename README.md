@@ -6,7 +6,7 @@
 
 <!--Start Intro-->
 <p align="left">
-  Étudiant en 5ème année à <span style="color: #0091d3; font-weight: bold;">EPITECH</span>, je suis en dernière année de Master of Science, avec une passion pour la transformation digitale, développement full stack et l'IA. 
+  Étudiant en 5ème année à <span style="color: #0091d3; font-weight: bold;">EPITECH</span>, je suis en Master of Science, avec une passion pour la transformation digitale, développement full stack et l'IA. 
   Toujours prêt à explorer de nouvelles techs et à relever des défis, j’adore apprendre, coder, et créer des projets qui déchirent.
 </p>
 
