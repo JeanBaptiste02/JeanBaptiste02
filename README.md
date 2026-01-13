@@ -1,72 +1,85 @@
-<h1 align="center">👋 Hey, moi c’est Jean-Baptiste</h1>
+<h1 align="center">Jean-Baptiste</h1>
 
 <p align="center">
-  🎓 Étudiant en <strong>5ᵉ année à EPITECH</strong> <br/>
-  💻 Master of Science – Full Stack, Transformation Digitale & IA
+Étudiant en dernière année à <strong>EPITECH</strong> — Master of Science<br/>
+Ingénierie logicielle · Transformation digitale · Systèmes complexes
 </p>
+
+<hr/>
+
+<h2>Profil</h2>
+
+<p>
+Ingénieur logiciel en formation, orienté conception de systèmes robustes et maintenables.
+Solide culture technique acquise à travers des projets exigeants mêlant architecture logicielle,
+développement full-stack, automatisation et travail en environnement contraint.
+</p>
+
+<p>
+Intérêt marqué pour la compréhension profonde des systèmes, la qualité du code,
+les bonnes pratiques d’ingénierie et l’optimisation des processus techniques.
+</p>
+
+<hr/>
+
+<h2>Domaines de compétences</h2>
+
+<h2>Domaines de compétences</h2>
+
+<table>
+  <tr>
+    <td><strong>Ingénierie logicielle</strong></td>
+    <td>
+      Conception orientée objet et fonctionnelle, architecture modulaire,
+      séparation des responsabilités, qualité du code, maintenabilité
+      et évolutivité des systèmes.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Développement applicatif</strong></td>
+    <td>
+      Conception et implémentation d’applications backend et web,
+      développement d’APIs, logique métier complexe,
+      intégration de services et gestion des flux de données.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Intelligence Artificielle</strong></td>
+    <td>
+      Conception et intégration de solutions basées sur l’IA,
+      traitement et exploitation des données, automatisation de processus,
+      compréhension des modèles, de leurs limites et de leurs impacts
+      en environnement de production.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Transformation digitale</strong></td>
+    <td>
+      Analyse de systèmes existants, modernisation d’architectures,
+      accompagnement technique de la transition numérique,
+      alignement des solutions technologiques avec les enjeux métiers.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Systèmes & performance</strong></td>
+    <td>
+      Compréhension bas niveau, gestion des ressources,
+      optimisation des performances, fiabilité,
+      sécurité et robustesse des applications.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Environnements professionnels</strong></td>
+    <td>
+      Travail en équipe technique, communication claire,
+      gestion de projet, respect des contraintes de qualité,
+      de délais et d’objectifs opérationnels.
+    </td>
+  </tr>
+</table>
+
+<hr/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JeanBaptiste02&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
-## 🚀 À propos de moi
-
-Étudiant passionné par le **développement full stack**, l’**intelligence artificielle** et la **transformation digitale**.  
-Toujours curieux des nouvelles technologies, j’aime apprendre, expérimenter et construire des projets concrets et ambitieux.
-
-- 🔥 Curieux & autodidacte  
-- 🧠 Orienté solutions & performance  
-- ⚙️ À l’aise aussi bien en backend qu’en frontend  
-
----
-
-## 🛠️ Langages & Technologies
-
-### 💻 Développement
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,cpp,java" />
-</p>
-
-### ⚛️ Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue" />
-</p>
-
-### 🧩 Backend & DB
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,jenkins,postman,figma" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeanBaptiste02&theme=algolia&no-frame=true&row=2&column=4" />
-</p>
-
----
-
-## 📊 Statistiques GitHub
-
-### 📈 Stats Générales
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanBaptiste02&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-### 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JeanBaptiste02&theme=tokyonight" />
-</p>
-
-### 🧠 Langages les plus utilisés
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBaptiste02&layout=compact&theme=tokyonight" />
+<a href="https://github.com/JeanBaptiste02">GitHub</a>
 </p>
