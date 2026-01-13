@@ -2,7 +2,7 @@
 
 <p align="center">
 Étudiant en dernière année à <strong>EPITECH</strong> — Master of Science<br/>
-Ingénierie logicielle · Transformation digitale · Systèmes complexes
+Ingénierie logicielle · Transformation digitale · Intelligence Artificielle
 </p>
 
 <hr/>
