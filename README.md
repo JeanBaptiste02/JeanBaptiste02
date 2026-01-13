@@ -24,8 +24,6 @@ les bonnes pratiques d’ingénierie et l’optimisation des processus technique
 
 <h2>Domaines de compétences</h2>
 
-<h2>Domaines de compétences</h2>
-
 <table>
   <tr>
     <td><strong>Ingénierie logicielle</strong></td>
