@@ -46,18 +46,24 @@ les bonnes pratiques d’ingénierie et l’optimisation des processus technique
   <tr>
     <td><strong>Intelligence Artificielle</strong></td>
     <td>
-      Conception et intégration de solutions basées sur l’IA,
-      traitement et exploitation des données, automatisation de processus,
-      compréhension des modèles, de leurs limites et de leurs impacts
-      en environnement de production.
+      Développement et intégration de solutions en apprentissage automatique
+      et deep learning, incluant traitement du langage naturel (NLP),
+      reconnaissance vocale et analyse de données.
+      Conception de pipelines de données complets, gestion des jeux de données,
+      entraînement, validation et déploiement de modèles.
+      Prise en compte des performances, de la scalabilité,
+      de l’explicabilité des résultats, des biais, de la dérive des données
+      et des contraintes de monitoring en environnement de production.
     </td>
   </tr>
   <tr>
     <td><strong>Transformation digitale</strong></td>
     <td>
-      Analyse de systèmes existants, modernisation d’architectures,
-      accompagnement technique de la transition numérique,
-      alignement des solutions technologiques avec les enjeux métiers.
+      Analyse approfondie de systèmes existants complexes,
+      conception et pilotage de stratégies de modernisation architecturale,
+      maîtrise des enjeux de transition numérique à échelle moyenne,
+      et capacité à aligner durablement les décisions technologiques
+      avec les objectifs métiers, opérationnels et stratégiques.
     </td>
   </tr>
   <tr>
